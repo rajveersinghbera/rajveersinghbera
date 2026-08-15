@@ -38,11 +38,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-7dd3fc?style=for-the-badge&logo=mysql&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%20(Learning)-7dd3fc?style=for-the-badge&logo=springboot&logoColor=black)
 
-**Mobile & Computer Vision**
-![Flutter](https://img.shields.io/badge/Flutter-7dd3fc?style=for-the-badge&logo=flutter&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-7dd3fc?style=for-the-badge&logo=opencv&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-7dd3fc?style=for-the-badge&logo=mediapipe&logoColor=black)
-
 **Cloud & Tools**
 ![AWS](https://img.shields.io/badge/AWS-7dd3fc?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-7dd3fc?style=for-the-badge&logo=git&logoColor=black)
