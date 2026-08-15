@@ -46,12 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajveersinghbera&show_icons=true&theme=default&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=333333&bg_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersinghbera&layout=compact&hide_border=true&title_color=7dd3fc&text_color=333333&bg_color=ffffff"/>
-</div>
+### 📊 Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajveersinghbera&bg_color=ffffff&color=7dd3fc&line=7dd3fc&point=0ea5e9&area=true&hide_border=true" width="90%"/>
