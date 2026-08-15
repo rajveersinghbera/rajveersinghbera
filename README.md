@@ -17,9 +17,6 @@
 
 <br><br>
 
-![Followers](https://img.shields.io/github/followers/rajveersinghbera?label=FOLLOWERS&style=for-the-badge&color=8b5cf6&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/rajveersinghbera?label=STARS&style=for-the-badge&color=ec4899&labelColor=1a1a2e)
-![Profile Views](https://komarev.com/ghpvc/?username=rajveersinghbera&label=PROFILE%20VIEWS&style=for-the-badge&color=3b82f6&labelColor=1a1a2e)
 
 </div>
 
