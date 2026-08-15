@@ -5,7 +5,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Rajveer%20Singh&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineering%20Undergraduate%20%7C%20Software%20Development%20%26%20Data%20Engineering&descAlignY=52&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:24243e&height=250&section=header&text=Rajveer%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Computer%20Engineering%20Undergraduate%20-%20Software%20Development%20and%20Data%20Engineering&descAlignY=52&descSize=17" />
+
 
 </div>
 
@@ -74,4 +75,4 @@ Fun fact:      Always chasing the next idea worth building ✨
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63&height=120&section=footer" />
