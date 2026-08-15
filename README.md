@@ -7,10 +7,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Rajveer%20Singh&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineering%20Undergraduate%20%7C%20Software%20Development%20%26%20Data%20Engineering&descAlignY=52&descSize=17" />
 
-![Followers](https://img.shields.io/github/followers/rajveersinghbera?label=FOLLOWERS&style=for-the-badge&color=8b5cf6&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/rajveersinghbera?label=STARS&style=for-the-badge&color=ec4899&labelColor=1a1a2e)
-![Profile Views](https://komarev.com/ghpvc/?username=rajveersinghbera&label=PROFILE%20VIEWS&style=for-the-badge&color=3b82f6&labelColor=1a1a2e)
-
 </div>
 
 ---
