@@ -7,16 +7,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Rajveer%20Singh&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineering%20Undergraduate%20%7C%20Software%20Development%20%26%20Data%20Engineering&descAlignY=52&descSize=17" />
 
-<a href="https://github.com/rajveersinghbera">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Engineering+Student;Software+Developer+%7C+Data+Engineer;Building+Cool+Things+with+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</a>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/rajveersinghbera/rajveersinghbera/output/github-contribution-grid-snake-dark.svg" width="90%">
-
-<br><br>
-
+![Followers](https://img.shields.io/github/followers/rajveersinghbera?label=FOLLOWERS&style=for-the-badge&color=8b5cf6&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/rajveersinghbera?label=STARS&style=for-the-badge&color=ec4899&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=rajveersinghbera&label=PROFILE%20VIEWS&style=for-the-badge&color=3b82f6&labelColor=1a1a2e)
 
 </div>
 
